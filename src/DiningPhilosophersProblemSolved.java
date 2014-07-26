@@ -28,7 +28,7 @@ public class DiningPhilosophersProblemSolved {
 	
 	int bites = 10;
 	
-	public PhilosopherProblemSolved(ChopStick leftStick, ChopStick rightStick){
+	public DiningPhilosophersProblemSolved(ChopStick leftStick, ChopStick rightStick){
 		this.leftStick = leftStick;
 		this.rightStick = rightStick;
 	}

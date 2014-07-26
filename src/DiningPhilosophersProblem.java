@@ -31,7 +31,7 @@ public class DiningPhilosophersProblem extends Thread{
 	
 	int bites = 10;
 	
-	public PhilosopherProblem(ChopStick leftStick, ChopStick rightStick){
+	public DiningPhilosophersProblem(ChopStick leftStick, ChopStick rightStick){
 		this.leftStick = leftStick;
 		this.rightStick = rightStick;
 	}
