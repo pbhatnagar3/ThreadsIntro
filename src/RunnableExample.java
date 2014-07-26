@@ -12,7 +12,7 @@ public class RunnableExample implements Runnable{
 		// TODO Auto-generated method stub
 		System.out.println("The runnable thread has started");
 		while(this.counter <= 7){
-			System.out.println("Working on incrementing the count variable. Patience dude... :D");
+			System.out.println("Working on incrementing the count variable in the runnable thread. Patience dude... :D");
 			System.out.println("The runnable thread will be sleeping for 1/4 of a sec");
 			try {
 				Thread.sleep(250);
