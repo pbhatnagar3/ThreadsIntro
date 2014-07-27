@@ -8,6 +8,11 @@ import java.util.concurrent.locks.ReentrantLock;
  * NOTE: this situation MAY CREATE A DEADLOCK (when all the philosophers pickup the left stick and are waiting for the right one).
  *  For a solution to this, see the other class called "PhilosopherProblemSolved.java" 
  * @author pbhatnagar
+ * If you have any questions or comments, please feel free to contact
+ * me at pbhatnagar3@gatech.edu
+ *
+ * MAY THE FORCE OF COMPILER BE WITH YOU. :D 
+ * 
  *
  */
 public class DiningPhilosophersProblem extends Thread{

@@ -4,7 +4,10 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * Using the lock instead of synchronization. This is  a really basic implementation written for learning and fun purposes.
  * @author pbhatnagar
+ * If you have any questions or comments, please feel free to contact
+ * me at pbhatnagar3@gatech.edu
  *
+ * MAY THE FORCE OF COMPILER BE WITH YOU. :D 
  */
 public class LockedATM {
 	private Lock lock;

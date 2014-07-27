@@ -5,7 +5,10 @@ import java.util.Scanner;
  * NOTE: This function was written to just see the very basic implementation of threads. There are tonnes of more efficient ways
  * of doing the same thing and writing this piece of code.0
  * @author pbhatnagar
+ *If you have any questions or comments, please feel free to contact
+ * me at pbhatnagar3@gatech.edu
  *
+ * MAY THE FORCE OF COMPILER BE WITH YOU. :D 
  */
 public class Tester {
 
